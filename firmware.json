@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "1.0.2",
-      "URL": "https://github.com/danilsilakov774/esp32-ota-demo/blob/bfaf2d2488b9043790188bb086a7cb64ea0055cf/SNEGv1.0.2.bin"
+      "URL": "https://github.com/danilsilakov774/esp32-ota-demo/blob/b96879a640d2c3c224ccd4668407c2e44e3ba2a1/Basic-OTA-Example.ino.esp32.bin"
     }
   ]
 }
