@@ -1,7 +1,7 @@
 {
   "Configurations": [
     {
-      "Version": "1.0.6",
+      "Version": "1.0.1",
       "URL": "https://github.com/danilsilakov774/esp32-ota-demo/blob/bfaf2d2488b9043790188bb086a7cb64ea0055cf/SNEGv1.0.2.bin"
     }
   ]
